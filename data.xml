@@ -2,7 +2,7 @@
 <rss>
   <channel>
     <title>Discord Store- SLT World</title>
-    <link>https://shallowgrowncontrolpanel.sltworlddev.repl.co/dgc</link>
+    <link>https://github.com/SLTWorldDev/Discord-Games/</link>
     <language>en-US</language>
     <webMaster>news-webmaster@google.com</webMaster>
     <copyright>2021 SLT World Community</copyright>
@@ -10,24 +10,24 @@
     <description>Discord Store - Recreated by SLT World</description>
     <trending>
       <item>
-        <icon>https://ShallowGrownControlpanel.sltworlddev.repl.co/assets/icon.png</icon>
+        <icon>https://github.com/SLTWorldDev/Discord-Games/blob/Images/icon.png</icon>
         <title>SLT Worlds</title>
         <description>A game dedicated to the future of humanity and technology...</description>
-        <image>https://ShallowGrownControlpanel.sltworlddev.repl.co/assets/thumbnail.jpg</image>
+        <image>https://github.com/SLTWorldDev/Discord-Games/blob/Images/thumbnail.jpg</image>
         <price>Free</price>
         <sku>0</sku>
-        <thumbnail>https://ShallowGrownControlpanel.sltworlddev.repl.co/assets/thumbnail.jpg</thumbnail>
+        <thumbnail>https://github.com/SLTWorldDev/Discord-Games/blob/Images/thumbnail.jpg</thumbnail>
       </item>
     </trending>
     <list>
       <item>
-        <icon>https://ShallowGrownControlpanel.sltworlddev.repl.co/assets/icon.png</icon>
+        <icon>https://github.com/SLTWorldDev/Discord-Games/blob/Images/icon.png</icon>
         <title>SLT Worlds</title>
         <description>A game dedicated to the future of humanity and technology...</description>
-        <image>https://ShallowGrownControlpanel.sltworlddev.repl.co/assets/thumbnail.jpg</image>
+        <image>https://github.com/SLTWorldDev/Discord-Games/blob/Images/thumbnail.jpg</image>
         <price>Free</price>
         <sku>0</sku>
-        <thumbnail>https://ShallowGrownControlpanel.sltworlddev.repl.co/assets/thumbnail.jpg</thumbnail>
+        <thumbnail>https://github.com/SLTWorldDev/Discord-Games/blob/Images/thumbnail.jpg</thumbnail>
       </item>
     </list>
   </channel>
