@@ -10,24 +10,24 @@
     <description>Discord Store - Recreated by SLT World</description>
     <trending>
       <item>
-        <icon>https://github.com/SLTWorldDev/Discord-Games/blob/Images/icon.png</icon>
+        <icon>https://raw.githubusercontent.com/SLTWorldDev/Discord-Games/blob/Images/icon.png</icon>
         <title>SLT Worlds</title>
         <description>A game dedicated to the future of humanity and technology...</description>
-        <image>https://github.com/SLTWorldDev/Discord-Games/blob/Images/thumbnail.jpg</image>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Games/blob/Images/thumbnail.jpg</image>
         <price>Free</price>
         <sku>0</sku>
-        <thumbnail>https://github.com/SLTWorldDev/Discord-Games/blob/Images/thumbnail.jpg</thumbnail>
+        <thumbnail>https://raw.githubusercontent.com/SLTWorldDev/Discord-Games/blob/Images/thumbnail.jpg</thumbnail>
       </item>
     </trending>
     <list>
       <item>
-        <icon>https://github.com/SLTWorldDev/Discord-Games/blob/Images/icon.png</icon>
+        <icon>https://raw.githubusercontent.com/SLTWorldDev/Discord-Games/blob/Images/icon.png</icon>
         <title>SLT Worlds</title>
         <description>A game dedicated to the future of humanity and technology...</description>
-        <image>https://github.com/SLTWorldDev/Discord-Games/blob/Images/thumbnail.jpg</image>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Games/blob/Images/thumbnail.jpg</image>
         <price>Free</price>
         <sku>0</sku>
-        <thumbnail>https://github.com/SLTWorldDev/Discord-Games/blob/Images/thumbnail.jpg</thumbnail>
+        <thumbnail>https://raw.githubusercontent.com/SLTWorldDev/Discord-Games/blob/Images/thumbnail.jpg</thumbnail>
       </item>
     </list>
   </channel>
