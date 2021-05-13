@@ -1,2 +1,2 @@
-# Discord-Games
-Collection of Discord Games
+# Discord Store Recreation Project - Made by SLT World
+Reaction of Discord Store...
