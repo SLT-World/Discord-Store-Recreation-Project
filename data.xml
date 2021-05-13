@@ -2,30 +2,30 @@
 <rss>
   <channel>
     <title>Discord Store- SLT World</title>
-    <link>https://github.com/SLTWorldDev/Discord-Games/</link>
+    <link>https://github.com/SLTWorldDev/Discord-Store-Recreation-Project/</link>
     <language>en-US</language>
     <copyright>2021 SLT World Community</copyright>
     <description>Discord Store - Recreated by SLT World</description>
     <trending>
       <item>
-        <icon>https://raw.githubusercontent.com/SLTWorldDev/Discord-Games/Images/icon.png</icon>
+        <icon>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/icon.png</icon>
         <title>SLT Worlds</title>
         <description>A game dedicated to the future of humanity and technology...</description>
-        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Games/Images/thumbnail.jpg</image>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/thumbnail.jpg</image>
         <price>Free</price>
         <sku>0</sku>
-        <thumbnail>https://raw.githubusercontent.com/SLTWorldDev/Discord-Games/Images/thumbnail.jpg</thumbnail>
+        <thumbnail>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/thumbnail.jpg</thumbnail>
       </item>
     </trending>
     <list>
       <item>
-        <icon>https://raw.githubusercontent.com/SLTWorldDev/Discord-Games/Images/icon.png</icon>
+        <icon>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/icon.png</icon>
         <title>SLT Worlds</title>
         <description>A game dedicated to the future of humanity and technology...</description>
-        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Games/Images/thumbnail.jpg</image>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/thumbnail.jpg</image>
         <price>Free</price>
         <sku>0</sku>
-        <thumbnail>https://raw.githubusercontent.com/SLTWorldDev/Discord-Games/Images/thumbnail.jpg</thumbnail>
+        <thumbnail>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/thumbnail.jpg</thumbnail>
       </item>
     </list>
   </channel>
