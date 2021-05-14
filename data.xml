@@ -142,6 +142,13 @@
         <price>Free</price>
         <sku>554072621000556584</sku>
       </item>
+      <item>
+        <title>Cycle 23</title>
+        <description>A fast-paced shooter but you're stuck in a time loop. First you think it's an arcade game: simple controls, powerful upgrades, and intense dogfights. But you’re living the same day over and over, trying to find out who the enemy are, and what they want.</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/Cycle23.png</image>
+        <price>1.99</price>
+        <sku>/561480119810654209</sku>
+      </item>
     </list>
   </channel>
 </rss>
