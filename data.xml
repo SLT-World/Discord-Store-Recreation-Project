@@ -22,7 +22,20 @@
         <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/thumbnail.jpg</image>
         <price>Free</price>
         <sku>0</sku>
-        <thumbnail>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/thumbnail.jpg</thumbnail>
+      </item>
+      <item>
+        <title>The Adventures of PepeL</title>
+        <description>The Adventures of PepeL. Complete custom puzzles, and challenging sitations. Make your way up to the leader who has been tormenting the lands. Developed by Ande and Published by Fantasy Studios, Dream World.</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/TheAdventuresOfPepeL.png</image>
+        <price>Free</price>
+        <sku>554072366213234729</sku>
+      </item>
+      <item>
+        <title>Jumplats</title>
+        <description>Jump through different levels in a game based on "the floor is lava".</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/Jumplats.png</image>
+        <price>Free</price>
+        <sku>618864578545319956</sku>
       </item>
       <item>
         <title>ZombsRoyale.io</title>
@@ -79,6 +92,34 @@
         <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/StarSonata2.png</image>
         <price>Free</price>
         <sku>459415040227803141</sku>
+      </item>
+      <item>
+        <title>PickCrafter</title>
+        <description>PickCrafter is an incremental idle crafting clicker game that lets you take control of a pickaxe and dig deep into the biomes. Even while idle or offline! Just start tapping to mine. Upgrade Legendary Pickaxes, collect all the blocks and gear, and unlock all the biomes. Digging for gold has never been more exciting! Tap to start, then upgrade your Artifacts and Abilities to mine deeper, faster.</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/PickCrafter.png</image>
+        <price>Free</price>
+        <sku>560643262424285194</sku>
+      </item>
+      <item>
+        <title>DBots Verification Simulator</title>
+        <description>Time to verify some robots in this super realistic robot verification simulator!</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/DBotsVerificationSimulator.png</image>
+        <price>Free</price>
+        <sku>241930933962407936</sku>
+      </item>
+      <item>
+        <title>Light From The Butt</title>
+        <description>'Darkness cannot drive out darkness: only light can do that'                                                           Martin Luther King, Jr. Enjoy retrowavy environments and futuristic car chases. As soon as you're fast enough (not up to lightspeed), you can destroy your enemies with buttlazer (yeah...)</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/LightFromTheButt.png</image>
+        <price>Free</price>
+        <sku>594073512906588179</sku>
+      </item>
+      <item>
+        <title>Forestir</title>
+        <description>Start as an apple who loves to eat other fruits. The other fruits are on a quest to defeat you before you eat the whole forest. Progress into fruit and vegetables.</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/Forestir.png</image>
+        <price>Free</price>
+        <sku>554072621000556584</sku>
       </item>
     </list>
   </channel>
