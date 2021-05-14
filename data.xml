@@ -149,6 +149,90 @@
         <price>1.99</price>
         <sku>/561480119810654209</sku>
       </item>
+      <item>
+        <title>SOMA</title>
+        <description>Just remember there’s no fighting back, either you outsmart your enemies or you get ready to run.</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/SOMA.png</image>
+        <price>$29.99</price>
+        <sku>489230107093893120</sku>
+      </item>
+      <item>
+        <title>Banner Saga 3</title>
+        <description>As the world crumbles around you, how will you survive when the Darkness draws near, and who will you trust with the fate of the world?</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/BannerSaga3.png</image>
+        <price>$24.99</price>
+        <sku>472483394085715979</sku>
+      </item>
+      <item>
+        <title>Subnautica</title>
+        <description>Descend into the depths of an alien underwater world filled with wonder and peril!</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/Subnautica.png</image>
+        <price>$29.99</price>
+        <sku>489926636943441932</sku>
+      </item>
+      <item>
+        <title>Parkasaurus</title>
+        <description>Care for your dino friends by crafting the perfect exhibits, gifting them the cutest hats, and travelling back in time to rescue them from demise!</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/Parkasaurus.png</image>
+        <price>$19.99</price>
+        <sku>508008071411400724</sku>
+      </item>
+      <item>
+        <title>Masters of Anima</title>
+        <description>Delve into an original adventure and defy the forces of evil in strategic, action-packed battles.</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/MastersOfAnima.png</image>
+        <price>$19.99</price>
+        <sku>492418279717994505</sku>
+      </item>
+      <item>
+        <title>King of the Hat</title>
+        <description>Throw your hat, risk your life. Crush your opponents hat before they crush yours in this fast-paced, hat-based fighting game.</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/KingOfTheHat.png</image>
+        <price>$14.99</price>
+        <sku>486981988109254667</sku>
+      </item>
+      <item>
+        <title>Subnautica: Below Zero</title>
+        <description>Dive into a freezing underwater adventure on an alien planet. Set one year after the original Subnautica, Below Zero challenges you to survive a disaster at an alien research station on Planet 4546B. Craft tools, scavenge for supplies, and unravel the next chapter in the Subnautica story.</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/SubnauticaBelowZero.png</image>
+        <price>$29.99</price>
+        <sku>535869836748783616</sku>
+      </item>
+      <item>
+        <title>Pillars of Eternity II: Deadfire</title>
+        <description>Pursue a rogue god over land and sea in the sequel to the multi-award-winning RPG Pillars of Eternity.</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/PillarsOfEternityIIDeadfire.png</image>
+        <price>$49.99</price>
+        <sku>466696214818193408</sku>
+      </item>
+      <item>
+        <title>AT SUNDOWN: Shots in the Dark</title>
+        <description>A hide-and-seek shooter in the dark where light is your enemy, as 4 players compete in a deathmatch to be the best!</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/AtSundownShotsInTheDark.png</image>
+        <price>$14.99</price>
+        <sku>487031053454802946</sku>
+      </item>
+      <item>
+        <title>Call of Cthulhu®</title>
+        <description>Cryptic clues, shadowy figures, and pure terror bar your way as you fight to retain your sanity and solve an otherworldly mystery.</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/CallOfCthulhu.png</image>
+        <price>$44.99</price>
+        <sku>503982482664849408</sku>
+      </item>
+      <item>
+        <title>Amnesia: The Dark Descent</title>
+        <description>Something emerges out of the darkness. It's approaching. Fast.</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/AmnesiaTheDarkDescent.png</image>
+        <price>$19.99</price>
+        <sku>489229235509002261</sku>
+      </item>
+      <item>
+        <title>Hex! Run</title>
+        <description>8 Action-packed levels that will test, push, and challenge your limits. Prove you're the best!</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/HexRun.png</image>
+        <price>$1.99</price>
+        <sku>598419143661846528</sku>
+      </item>
     </list>
   </channel>
 </rss>
