@@ -8,7 +8,15 @@
     <description>Discord Store - Recreated by SLT World</description>
     <trending>
       <item>
-        <icon>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/icon.png</icon>
+        <title>SLT Worlds</title>
+        <description>A game dedicated to the future of humanity and technology...</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/thumbnail.jpg</image>
+        <price>Free</price>
+        <sku>0</sku>
+      </item>
+    </trending>
+    <list>
+      <item>
         <title>SLT Worlds</title>
         <description>A game dedicated to the future of humanity and technology...</description>
         <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/thumbnail.jpg</image>
@@ -16,16 +24,61 @@
         <sku>0</sku>
         <thumbnail>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/thumbnail.jpg</thumbnail>
       </item>
-    </trending>
-    <list>
       <item>
-        <icon>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/icon.png</icon>
-        <title>SLT Worlds</title>
-        <description>A game dedicated to the future of humanity and technology...</description>
-        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/thumbnail.jpg</image>
+        <title>ZombsRoyale.io</title>
+        <description>Dive into the #1 2D battle royale game in the world - now on Discord. 100 player, real-time multiplayer action with vibrant graphics and dynamic gameplay all packed in 5 minute matches. How many victories can you get while decking yourself out in the fresh cosmetics?</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/ZombsRoyale.png</image>
         <price>Free</price>
-        <sku>0</sku>
-        <thumbnail>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/thumbnail.jpg</thumbnail>
+        <sku>519338998791929866</sku>
+      </item>
+      <item>
+        <title>It's Hard Being A Dog</title>
+        <description></description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/ItsHardBeingADog.png</image>
+        <price>Free</price>
+        <sku>565994833953554432</sku>
+      </item>
+      <item>
+        <title>Avoid</title>
+        <description>AVOID™ is a game made and published by FX Studios™</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/Avoid.png</image>
+        <price>Free</price>
+        <sku>601864041731719189</sku>
+      </item>
+      <item>
+        <title>SandBoxes</title>
+        <description>A multiplayer sandbox with game modes</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/SandBoxes.png</image>
+        <price>Free</price>
+        <sku>519249930611589141</sku>
+      </item>
+      <item>
+        <title>Patch Quest</title>
+        <description>If you're looking to playtest the latest version of Patch Quest... then you've come to the right channel! Click install to download it for free (Windows only)</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/PatchQuest.png</image>
+        <price>Free</price>
+        <sku>620936102064291871</sku>
+      </item>
+      <item>
+        <title>Heroes & Generals WWII</title>
+        <description>Heroes & Generals WWII is a full on, all-out WAR experience. Thousands of players fighting one massive clash of nations. The first to capture 15 cities takes the glory.</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/HeroesAndGeneralsWWII.png</image>
+        <price>Free</price>
+        <sku>620936102064291871</sku>
+      </item>
+      <item>
+        <title>SCP: Secret Laboratory</title>
+        <description>Deep within the SCP Foundation during a containment breach, many of the anomalies have bypassed security and escaped from their chambers - without peaceful intentions. Become site personnel, a re-containment agent, or an anomalous entity and fight to take control of or escape the facility!</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/SecretBaboratory.png</image>
+        <price>Free</price>
+        <sku>420676877766623232</sku>
+      </item>
+      <item>
+        <title>Star Sonata 2</title>
+        <description>Star Sonata 2 is a space-themed massively multiplayer online game that combines elements of action, RPG, and empire creation into a truly unique MMO experience. Explore the sandbox style universe, build persistent bases, construct trade ships, and even fight your way to the top and claim the Emperor’s Throne!</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/StarSonata2.png</image>
+        <price>Free</price>
+        <sku>459415040227803141</sku>
       </item>
     </list>
   </channel>
