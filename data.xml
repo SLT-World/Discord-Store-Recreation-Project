@@ -233,6 +233,97 @@
         <price>$1.99</price>
         <sku>598419143661846528</sku>
       </item>
+      <item>
+        <title>Heart of the Woods</title>
+        <description>A fantasy yuri visual novel filled with magic, fairies, and a ghost girl. When Maddie and her best friend, Tara, journey to a remote forest village to investigate rumors of the supernatural, they find a whole lot more than they bargained for.</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/HeartOfTheWoods.png</image>
+        <price>$14.99</price>
+        <sku>555830991168733204</sku>
+      </item>
+      <item>
+        <title>A Magical High School Girl</title>
+        <description>"The magic beckons you." A Magical High School Girl is a magic crafting rogue-like RPG! The only weapon you possess is the magic you conjure from within. You can freely name your magic. The elemental properties and effects are generated automatically with what you typed in.</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/AMagicalHighSchoolGirl.png</image>
+        <price>$9.99</price>
+        <sku>555812072969994260</sku>
+      </item>
+      <item>
+        <title>Newton And The Apple Tree</title>
+        <description>Syuji Asanaga and his childhood friend Yotsuko Utakane, while tracking down Syuji's missing grandfather, unexpectedly end up traveling through time to the 17th century! Upon arrival, they are greeted by a small, flat-chested girl who would one day be known as Sir Isaac Newton!</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/NewtonAndTheAppleTree.png</image>
+        <price>$39.99</price>
+        <sku>555867662442430483</sku>
+      </item>
+      <item>
+        <title>Under One Wing</title>
+        <description>Fairy Fight - A large-scale dogfight, utilizing the finest warplanes the world has ever known. Sasaki Junichi is the grandson of a legendary FF Pilot. He arrives at the student dormitory of a legendary FF academy known as Shouou Academy, only to find... every other tenant is a woman!!</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/UnderOneWing.png</image>
+        <price>$29.99</price>
+        <sku>555856535327342592</sku>
+      </item>
+      <item>
+        <title>The Vagrant</title>
+        <description>Guide Vivian the Vagrant, through vibrant and dynamic landscapes while hacking and slashing a path from a quiet coastal village through mysterious forests, haunted castles, and wrecked battlegrounds. When the endless barrage of enemies have been vanquished, what solace will be left for our hero?</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/TheVagrant.png</image>
+        <price>$3.99</price>
+        <sku>562121024993230868</sku>
+      </item>
+      <item>
+        <title>Temtem</title>
+        <description>Temtem is a massively multiplayer creature-collection adventure inspired by Pokémon. Seek adventure in the lovely Airborne Archipelago alongside your Temtem squad. Catch every Temtem, battle other tamers, customize your house, join a friend's adventure or explore the dynamic online world.</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/Temtem.png</image>
+        <price>$39.99</price>
+        <sku>558547388583772201</sku>
+      </item>
+      <item>
+        <title>Tanglewood</title>
+        <description>TANGLEWOOD® is a brand new and original puzzle-platforming game originally released for the SEGA Mega Drive and Genesis, now available on Windows and Mac. A true 16-bit, challenging platforming experience that will make fans of the golden gaming era feel warm and fuzzy.</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/Tanglewood.png</image>
+        <price>$13.99</price>
+        <sku>378315252749565952</sku>
+      </item>
+      <item>
+        <title>Stay Safe</title>
+        <description>A roguelite adventure where you try to survive all 35 floors!</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/StaySafe.png</image>
+        <price>$2.99</price>
+        <sku>431807599860514817</sku>
+      </item>
+      <item>
+        <title>Forsaken Remastered</title>
+        <description>Scavengers from all over the galaxy have come to a dead Earth to loot the remains of the technology that can found in underground tunnels. You must fight your way past the scum of the universe. As you prepare for deadly combat, you are going to quickly learn that the future is... Forsaken!</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/ForsakenRemastered.png</image>
+        <price>$19.99</price>
+        <sku>494870847777931268</sku>
+      </item>
+      <item>
+        <title>Forager</title>
+        <description>The highly popular and quirky "idle game that you want to actively keep playing". Explore, craft, gather & manage resources, find secrets and build your base out of nothing! Buy land to explore and expand!</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/Forager.png</image>
+        <price>$19.99</price>
+        <sku>530541618504269875</sku>
+      </item>
+      <item>
+        <title>Metal's Dungeon</title>
+        <description>A fun RPG-styled dungeon crawler themed around your favourite classic games</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/MetalsDungeon.png</image>
+        <price>$1.99</price>
+        <sku>557494559257526272</sku>
+      </item>
+      <item>
+        <title>SlayTheSpire</title>
+        <description>Craft a unique deck, encounter bizarre creatures, discover relics of immense power, and Slay the Spire!</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/SlayTheSpire.png</image>
+        <price>$24.99</price>
+        <sku>489493235924992012</sku>
+      </item>
+      <item>
+        <title>Aground</title>
+        <description>As one of the last human survivors, you find yourself stranded on an uninhabited island. With a few other victims of the crash, can you craft, mine, and build your way to survival?</description>
+        <image>https://raw.githubusercontent.com/SLTWorldDev/Discord-Store-Recreation-Project/Images/Aground.png</image>
+        <price>$14.99</price>
+        <sku>610226007324098571</sku>
+      </item>
     </list>
   </channel>
 </rss>
